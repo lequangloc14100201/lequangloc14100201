@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lequangloc14100201
+- 👋 Hi, I’m @lequangloc
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
